@@ -1,5 +1,7 @@
 # Università Italiane - Dipartimenti di Ingegneria Informatica e Referenti per Ingegneria del Software (non aggiornato)
 
+> ⚠️ **Disclaimer:** Il referente per l'ingegneria del software indicato in questa pagina non è legato a nomine o meriti particolari, ma è stato selezionato come punto di contatto con cui si può interloquire in merito a questioni legate all'ingegneria del software. Spesso si tratta di un docente per la specifica materia o di un responsabile didattico, selezionato automaticamente da chi ha realizzato questa lista.
+
 ## Abruzzo
 ### 🏛️ Università degli Studi dell'Aquila
 - **Dipartimento**: [Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica](https://www.disim.univaq.it/)
