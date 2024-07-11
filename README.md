@@ -3,7 +3,7 @@
 ## Abruzzo
 ### Università degli Studi dell'Aquila
 - **Dipartimento**: [Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica](https://www.disim.univaq.it/)
-- **Referente**: [Prof. Henry Muccini](https://www.disim.univaq.it/main/home.php?users_username=henry.muccini)
+- **Referente**: [Prof. Henry Muccini](https://www.disim.univaq.it/HenryMuccini)
 
 ### Università degli Studi "G. d'Annunzio" Chieti-Pescara
 - **Dipartimento**: [Dipartimento di Ingegneria e Geologia](https://www.ingeo.unich.it/)
