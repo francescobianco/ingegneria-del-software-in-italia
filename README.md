@@ -162,7 +162,7 @@
 
 ## Licenza
 
-Questo lavoro è concesso in licenza sotto la licenza [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+Questo lavoro, comprensivo delle informazioni sui dipartimenti di ingegneria informatica delle università italiane, è concesso in licenza sotto la [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 
