@@ -12,7 +12,7 @@
 ## Basilicata
 ### Università degli Studi della Basilicata
 - **Dipartimento**: [Scuola di Ingegneria](https://ingegneria.unibas.it/)
-- **Referente**: [Prof. Giansalvatore Mecca](https://www2.unibas.it/gmecca/mydoc/curriculum.pdf)
+- **Referente**: [Prof. Giansalvatore Mecca](https://db.unibas.it/users/mecca/)
 
 ## Calabria
 ### Università della Calabria
