@@ -157,3 +157,12 @@
 ### 🏛️ Università Ca' Foscari Venezia
 - **Dipartimento**: [Dipartimento di Scienze Ambientali, Informatica e Statistica](https://www.unive.it/dais)
 - **Referente**: [Prof. Agostino Cortesi](https://www.unive.it/data/persone/5591776)
+
+---
+
+## Licenza
+
+Questo lavoro è concesso in licenza sotto la licenza [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
+![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
+
