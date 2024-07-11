@@ -1,11 +1,11 @@
 # Università Italiane - Dipartimenti di Ingegneria Informatica e Referenti per Ingegneria del Software (non aggiornato)
 
 ## Abruzzo
-### Università degli Studi dell'Aquila
+### 🏛️ Università degli Studi dell'Aquila
 - **Dipartimento**: [Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica](https://www.disim.univaq.it/)
 - **Referente**: [Prof. Henry Muccini](https://www.disim.univaq.it/HenryMuccini)
 
-### Università degli Studi "G. d'Annunzio" Chieti-Pescara
+### 🏛️ Università degli Studi "G. d'Annunzio" Chieti-Pescara
 - **Dipartimento**: [Dipartimento di Ingegneria e Geologia](https://www.ingeo.unich.it/)
 - **Referente**: [Prof. Paolino Di Felice](https://www.unich.it/ugov/person/1424)
 
